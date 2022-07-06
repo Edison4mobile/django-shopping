@@ -36,6 +36,6 @@
     "leaflet": "^1.1.0",
     "leaflet-easybutton": "^2.2.0",
     "picturefill": "~3.0.2",
-    "select2": "~4.0.3"
+    "select2": "~4.0.6"
   }
 }
